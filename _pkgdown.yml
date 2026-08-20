@@ -7,10 +7,10 @@ url: https://now2014.github.io/HDL.S
 repo:
   url:
     home: https://github.com/now2014/HDL.S/
-    source: https://github.com/now2014/HDL.S/blob/main/
+    source: https://github.com/now2014/HDL.S/blob/master/
     issue: https://github.com/now2014/HDL.S/issues/
     user: https://github.com/
-  branch: main
+  branch: master
 
 navbar:
   structure:
