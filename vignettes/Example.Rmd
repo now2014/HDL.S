@@ -18,7 +18,7 @@ To install the latest version of `HDL.S` package via Github, run the following c
 
 ```R
 # install.packages('remotes')
-remotes::install_github("now2014/HDL.S", ref='main')
+remotes::install_github("now2014/HDL.S", ref = "master")
 ```
 
 The `data.table` package is also required for this example:
